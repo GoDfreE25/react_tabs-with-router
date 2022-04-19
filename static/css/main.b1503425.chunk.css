@@ -1,0 +1,2 @@
+body{font-family:Arial,Helvetica,sans-serif}.active{color:#0ac3ba}.active,.notActive{text-decoration:none}.notActive{color:#030303}.app,.app_title,.home{text-align:center}.tab{display:flex;flex-direction:column;align-items:center}.tab_list{display:grid;grid-template-columns:repeat(3,1fr);grid-gap:20px;gap:20px;margin-bottom:20px}.tab_content{font-size:20px}.tab_item{list-style:none}.selected{text-align:center}.active_tab{color:#48e085}.active_tab,.notActive_tab{text-decoration:none}
+/*# sourceMappingURL=main.b1503425.chunk.css.map */
